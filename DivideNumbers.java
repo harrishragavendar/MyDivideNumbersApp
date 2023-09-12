@@ -8,5 +8,6 @@ public class DivideNumbers {
         int num2 = 5;
         double quotient = divide(num1, num2);
         System.out.println("Quotient using method: " + quotient);
+        System.out("iuiu")
     }
 }
